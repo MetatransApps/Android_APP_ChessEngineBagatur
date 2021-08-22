@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    	
+        <string name="app_name">Motor de Ajedrez Bagatur</string>
+        
+        <string name="app_html_desc_short">
+        <![CDATA[
+        
+Programa de ajedrez con muchos niveles sintonizados contra Stockfish.
+        
+        		]]>
+    </string>
+    
+    
+    <string name="app_html_desc">
+        <![CDATA[
+
+Este es el motor de ajedrez Bagatur con interfaz gráfica de usuario (GUI) propia. El programa tiene diferentes niveles (principiante-experto) de 1 a 16.
+Desde el nivel 5, muestra la información de búsqueda.
+La IA se ajusta al motor de ajedrez Stockfish mediante una red neuronal (perceptrón con 1 capa).
+La calificación ELO es de aproximadamente 2700 y el programa tiene un estilo de juego único.
+Admite diferentes paletas de colores y juegos de piezas de ajedrez para diferentes gustos.
+
+<b> Características </b>
+1. Flip Board.
+2. Deshacer el movimiento con el botón "atrás" del dispositivo.
+3. Mover al arrastrar y soltar, así como seleccionando desde y hacia los cuadrados.
+4. Incorpora el motor de ajedrez Bagatur.
+5. Soporta diferentes paletas de colores y juegos de piezas de ajedrez para diferentes gustos.
+
+<b> ¿Por qué jugar al ajedrez? </b>
+Jugar al juego de ajedrez es extremadamente útil, ya que desarrolla e incrementa varias capacidades mentales como:
+1. habilidades analíticas
+2. la memoria
+3. Pensamiento estratégico
+4. Nivel de concentración.
+5. IQ
+6. Reconocimiento de patrones.
+7. muchos otros
+
+Sus comentarios son más que bienvenidos.
+
+        ]]>
+    </string>
+    
+    <string name="app_html_keywords">
+        <![CDATA[
+         	ajedrez, motor, bagatur, juego, jugar, diversión
+                ]]>
+    </string>
+    
+</resources>

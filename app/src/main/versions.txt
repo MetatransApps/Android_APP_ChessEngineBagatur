@@ -1,0 +1,73 @@
+1.1.8 (21.08.2021)
+Technical debt: Migration of the development environment, from Eclipse to Android Studio
+
+1.1.7 (13.02.2021)
+Bugfixing
+
+1.1.6 (12.02.2021)
+File and rank are now visualized on the board
+Added menu item for board editing
+
+1.1.5 (24.01.2021)
+Added menu item for move animation speed regulation
+
+1.1.4 (23.01.2021)
+Bugfixing - text processor fix
+
+1.1.3
+The application is now a text processor, if you select a valid FEN than you will be able to open it with Bagatur.
+Adding Chess Board Scanner and Analyzer application to the menu 'more'.
+
+1.1.2
+Update the engine to Bagatur 2.2
+Added Moves animation
+Added exit button in the menu
+Added undo move button
+New game button is now moved to menu
+
+1.1.1
+Compliance with Google Play Policies - removal of Appbrain and Millennial Media ads SDKs
+
+1.1.0
+Update the engine to Bagatur 1.8a
+
+1.0.9
+Users Request: fix for board flip problem, now when play with black the white field is on the right
+
+1.0.8
+Users Request: Undo button replaced with rotate board button. Now for undoing move should click the 'back' button of the device
+Users Request: remove background images for better look
+
+1.0.7
+User Request: info button removes/adds search info panel
+
+1.0.6
+New panels layout
+Return back home Ads
+
+1.0.5
+Hot fix for home Ads, which overlap application content
+Hot fix for border screen resolutions like 768 x 1024
+Remove wrong Chinese and German translations
+
+1.0.4
+Remove not working logic for leader boards
+Fix visualization of mate scores
+A few translation improvements
+
+1.0.3
+For levels 5+ keeps track of search information for each move (not only for the last one)
+For better user experience open interstitial Ad on clicking new game (not after the end of the game)
+Change the background image of the screens to icon of Bagatur Chess
+
+1.0.2
+Update the engine to Bagatur 1.7a
+Now info button enables/disables the search info visualization
+
+1.0.1
+Adding additional levels up to 16
+Adding search info visualization
+Adding menu item About Bagatur
+
+1.0.0
+Initial version of Bagatur Chess Engine
