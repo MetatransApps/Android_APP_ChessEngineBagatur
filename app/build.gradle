@@ -31,8 +31,8 @@ android {
 
 dependencies {
 
-    implementation project(":MetatransApps_Android_LIB_Commons")
-    implementation project(":MetatransApps_Android_LIB_CommonsAds")
-    implementation project(":MetatransApps_Android_LIB_ChessArtForKids")
+    implementation project(":Android_LIB_Commons")
+    implementation project(":Android_LIB_CommonsAds")
+    implementation project(":Android_LIB_ChessArtForKids")
 
 }
