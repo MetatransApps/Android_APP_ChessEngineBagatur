@@ -5,7 +5,7 @@ import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.RectF;
 
-import org.metatransapps.commons.ui.utils.BitmapUtils;
+import org.metatrans.commons.ui.utils.BitmapUtils;
 
 import com.bagaturchess.lib.R;
 

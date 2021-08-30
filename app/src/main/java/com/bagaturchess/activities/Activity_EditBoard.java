@@ -4,9 +4,9 @@ package com.bagaturchess.activities;
 import android.content.Intent;
 import android.view.Gravity;
 
-import org.metatransapps.commons.ads.api.IAdsConfiguration;
-import org.metatransapps.commons.app.Application_Base;
-import org.metatransapps.commons.web.WebUtils;
+import org.metatrans.commons.ads.api.IAdsConfiguration;
+import org.metatrans.commons.app.Application_Base;
+import org.metatrans.commons.web.WebUtils;
 
 import com.chessartforkids.edit.EditBoardView;
 import com.chessartforkids.lib.R;

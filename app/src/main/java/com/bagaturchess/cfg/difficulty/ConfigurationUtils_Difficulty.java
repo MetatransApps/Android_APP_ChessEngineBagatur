@@ -1,9 +1,9 @@
 package com.bagaturchess.cfg.difficulty;
 
 
-import org.metatransapps.commons.cfg.IConfigurationEntry;
-import org.metatransapps.commons.cfg.difficulty.ConfigurationUtils_Base_Difficulty;
-import org.metatransapps.commons.cfg.difficulty.IConfigurationDifficulty;
+import org.metatrans.commons.cfg.IConfigurationEntry;
+import org.metatrans.commons.cfg.difficulty.ConfigurationUtils_Base_Difficulty;
+import org.metatrans.commons.cfg.difficulty.IConfigurationDifficulty;
 
 
 public class ConfigurationUtils_Difficulty extends ConfigurationUtils_Base_Difficulty {	

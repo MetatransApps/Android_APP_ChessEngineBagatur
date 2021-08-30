@@ -1,8 +1,8 @@
 package com.bagaturchess.activities;
 
 
-import org.metatransapps.commons.Activity_Base;
-import org.metatransapps.commons.loading.View_Loading_Base;
+import org.metatrans.commons.Activity_Base;
+import org.metatrans.commons.loading.View_Loading_Base;
 
 import com.bagaturchess.lib.R;
 import com.bagaturchess.views.View_Loading;

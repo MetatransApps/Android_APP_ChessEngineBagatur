@@ -13,10 +13,10 @@ import com.chessartforkids.model.UserSettings;
 
 import java.util.List;
 
-import org.metatransapps.commons.app.Application_Base;
-import org.metatransapps.commons.cfg.menu.Config_MenuMain_Base;
-import org.metatransapps.commons.cfg.menu.IConfigurationMenu_Main;
-import org.metatransapps.commons.web.Activity_WebView_StatePreservingImpl_With_VideoPlayer;
+import org.metatrans.commons.app.Application_Base;
+import org.metatrans.commons.cfg.menu.Config_MenuMain_Base;
+import org.metatrans.commons.cfg.menu.IConfigurationMenu_Main;
+import org.metatrans.commons.web.Activity_WebView_StatePreservingImpl_With_VideoPlayer;
 
 
 public class Activity_MenuMain_BagaturChess extends MenuActivity_Main /*implements GlobalConstants*/ {

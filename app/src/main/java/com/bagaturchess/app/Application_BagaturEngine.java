@@ -1,7 +1,7 @@
 package com.bagaturchess.app;
 
 
-import org.metatransapps.commons.model.GameData_Base;
+import org.metatrans.commons.model.GameData_Base;
 
 import com.bagaturchess.cfg.difficulty.ConfigurationUtils_Difficulty;
 import com.chessartforkids.engines.EngineClient_LocalImpl;

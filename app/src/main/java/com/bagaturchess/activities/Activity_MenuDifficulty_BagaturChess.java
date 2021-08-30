@@ -19,10 +19,10 @@ import com.chessartforkids.utils.CachesBitmap;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.metatransapps.commons.cfg.difficulty.IConfigurationDifficulty;
-import org.metatransapps.commons.ui.list.ListViewFactory;
-import org.metatransapps.commons.ui.list.RowItem_CIdTD;
-import org.metatransapps.commons.ui.utils.BitmapUtils;
+import org.metatrans.commons.cfg.difficulty.IConfigurationDifficulty;
+import org.metatrans.commons.ui.list.ListViewFactory;
+import org.metatrans.commons.ui.list.RowItem_CIdTD;
+import org.metatrans.commons.ui.utils.BitmapUtils;
 
 
 public class Activity_MenuDifficulty_BagaturChess extends MenuActivity_Base implements GlobalConstants, BoardConstants {

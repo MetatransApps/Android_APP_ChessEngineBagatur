@@ -4,7 +4,7 @@ package com.bagaturchess.cfg.difficulty;
 import com.chessartforkids.lib.R;
 
 
-public class Config_Difficulty_4 extends org.metatransapps.commons.cfg.difficulty.Config_Difficulty_4 {
+public class Config_Difficulty_4 extends org.metatrans.commons.cfg.difficulty.Config_Difficulty_4 {
 	
 	
 	@Override
