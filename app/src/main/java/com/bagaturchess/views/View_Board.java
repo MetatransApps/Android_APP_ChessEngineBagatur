@@ -5,7 +5,8 @@ import android.content.Context;
 import android.graphics.RectF;
 import android.view.View;
 
-import com.apps.mobile.android.commons.engagement.leaderboards.View_Achievements_And_Leaderboards_Base;
+import org.metatransapps.commons.engagement.leaderboards.View_Achievements_And_Leaderboards_Base;
+
 import com.chessartforkids.main.views.BoardView;
 
 

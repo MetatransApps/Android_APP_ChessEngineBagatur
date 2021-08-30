@@ -1,8 +1,9 @@
 package com.bagaturchess.activities;
 
 
-import com.apps.mobile.android.commons.Activity_Base;
-import com.apps.mobile.android.commons.loading.View_Loading_Base;
+import org.metatransapps.commons.Activity_Base;
+import org.metatransapps.commons.loading.View_Loading_Base;
+
 import com.bagaturchess.lib.R;
 import com.bagaturchess.views.View_Loading;
 import com.chessartforkids.loading.Activity_Loading;

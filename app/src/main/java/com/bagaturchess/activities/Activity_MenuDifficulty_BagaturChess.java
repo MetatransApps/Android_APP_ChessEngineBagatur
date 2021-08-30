@@ -9,10 +9,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
 
-import com.apps.mobile.android.commons.cfg.difficulty.IConfigurationDifficulty;
-import com.apps.mobile.android.commons.ui.list.ListViewFactory;
-import com.apps.mobile.android.commons.ui.list.RowItem_CIdTD;
-import com.apps.mobile.android.commons.ui.utils.BitmapUtils;
 import com.bagaturchess.cfg.difficulty.ConfigurationUtils_Difficulty;
 import com.bagaturchess.lib.R;
 import com.chessartforkids.GlobalConstants;
@@ -22,6 +18,11 @@ import com.chessartforkids.utils.CachesBitmap;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import org.metatransapps.commons.cfg.difficulty.IConfigurationDifficulty;
+import org.metatransapps.commons.ui.list.ListViewFactory;
+import org.metatransapps.commons.ui.list.RowItem_CIdTD;
+import org.metatransapps.commons.ui.utils.BitmapUtils;
 
 
 public class Activity_MenuDifficulty_BagaturChess extends MenuActivity_Base implements GlobalConstants, BoardConstants {

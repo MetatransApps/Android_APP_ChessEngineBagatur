@@ -5,10 +5,6 @@ import android.app.Activity;
 import android.content.Intent;
 import android.content.res.Configuration;
 
-import com.apps.mobile.android.commons.app.Application_Base;
-import com.apps.mobile.android.commons.cfg.menu.Config_MenuMain_Base;
-import com.apps.mobile.android.commons.cfg.menu.IConfigurationMenu_Main;
-import com.apps.mobile.android.commons.web.Activity_WebView_StatePreservingImpl_With_VideoPlayer;
 import com.bagaturchess.cfg.difficulty.ConfigurationUtils_Difficulty;
 import com.bagaturchess.lib.R;
 import com.chessartforkids.cfg.pieces.ConfigurationUtils_Pieces;
@@ -16,6 +12,11 @@ import com.chessartforkids.menu.MenuActivity_Main;
 import com.chessartforkids.model.UserSettings;
 
 import java.util.List;
+
+import org.metatransapps.commons.app.Application_Base;
+import org.metatransapps.commons.cfg.menu.Config_MenuMain_Base;
+import org.metatransapps.commons.cfg.menu.IConfigurationMenu_Main;
+import org.metatransapps.commons.web.Activity_WebView_StatePreservingImpl_With_VideoPlayer;
 
 
 public class Activity_MenuMain_BagaturChess extends MenuActivity_Main /*implements GlobalConstants*/ {

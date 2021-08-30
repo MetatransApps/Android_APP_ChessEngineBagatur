@@ -1,9 +1,9 @@
 package com.bagaturchess.cfg.difficulty;
 
 
-import com.apps.mobile.android.commons.cfg.IConfigurationEntry;
-import com.apps.mobile.android.commons.cfg.difficulty.ConfigurationUtils_Base_Difficulty;
-import com.apps.mobile.android.commons.cfg.difficulty.IConfigurationDifficulty;
+import org.metatransapps.commons.cfg.IConfigurationEntry;
+import org.metatransapps.commons.cfg.difficulty.ConfigurationUtils_Base_Difficulty;
+import org.metatransapps.commons.cfg.difficulty.IConfigurationDifficulty;
 
 
 public class ConfigurationUtils_Difficulty extends ConfigurationUtils_Base_Difficulty {	

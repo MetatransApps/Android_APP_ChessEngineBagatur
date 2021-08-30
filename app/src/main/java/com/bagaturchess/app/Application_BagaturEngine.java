@@ -1,7 +1,8 @@
 package com.bagaturchess.app;
 
 
-import com.apps.mobile.android.commons.model.GameData_Base;
+import org.metatransapps.commons.model.GameData_Base;
+
 import com.bagaturchess.cfg.difficulty.ConfigurationUtils_Difficulty;
 import com.chessartforkids.engines.EngineClient_LocalImpl;
 import com.chessartforkids.logic.GameDataUtils;
