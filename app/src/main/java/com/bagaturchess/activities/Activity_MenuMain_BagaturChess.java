@@ -44,10 +44,16 @@ public class Activity_MenuMain_BagaturChess extends MenuActivity_Main /*implemen
 		
 		
 		List<IConfigurationMenu_Main> entries = super.getEntries();
-		
-		entries.remove(5);//Remove Difficulty menu item (from Chess Art For Kids)
-		entries.remove(5);//Remove Pieces menu item (from Chess Art For Kids)
-		entries.remove(5);//Remove Rules menu item (from Chess Art For Kids)
+
+		if (Application_Base.getInstance().getApp_Me().getPaidVersion() != null) {
+			entries.remove(6);//Remove Difficulty menu item (from Chess Art For Kids)
+			entries.remove(6);//Remove Pieces menu item (from Chess Art For Kids)
+			entries.remove(6);//Remove Rules menu item (from Chess Art For Kids)
+		} else {
+			entries.remove(5);//Remove Difficulty menu item (from Chess Art For Kids)
+			entries.remove(5);//Remove Pieces menu item (from Chess Art For Kids)
+			entries.remove(5);//Remove Rules menu item (from Chess Art For Kids)
+		}
 		
 		entries.add(1, new Config_MenuMain_Base() {
 			
