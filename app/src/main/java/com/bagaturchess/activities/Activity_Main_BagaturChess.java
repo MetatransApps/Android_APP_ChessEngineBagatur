@@ -15,19 +15,13 @@ public class Activity_Main_BagaturChess extends MainActivity {
 	
 	
 	@Override
-	protected int getBackgroundImageID() {
-		return R.drawable.ic_background_bagaturchess;
-	}
-	
-	
-	@Override
 	protected int getMainLayoutID() {
 		return R.id.layout_main_vertical_bagaturchess;
 	}
 	
 	
 	@Override
-	protected int getMainViewID() {
+	protected int getMainLayout() {
 		return R.layout.main_vertical_bagaturchess;
 	}
 }

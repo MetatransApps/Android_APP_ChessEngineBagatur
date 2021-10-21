@@ -1,6 +1,8 @@
 package com.bagaturchess.app;
 
 
+import org.metatrans.commons.engagement.ILeaderboardsProvider;
+import org.metatrans.commons.engagement.leaderboards.LeaderboardsProvider_Base_Scores;
 import org.metatrans.commons.model.GameData_Base;
 
 import com.bagaturchess.cfg.difficulty.ConfigurationUtils_Difficulty;
@@ -19,6 +21,12 @@ public abstract class Application_BagaturEngine extends com.chessartforkids.app.
 		ConfigurationUtils_Difficulty.createInstance();
 		
 		EngineClient_LocalImpl.MEMORY_USAGE_PERCENT = 0.25;
+	}
+
+
+	@Override
+	protected ILeaderboardsProvider createLeaderboardsProvider() {
+		return null;
 	}
 
 

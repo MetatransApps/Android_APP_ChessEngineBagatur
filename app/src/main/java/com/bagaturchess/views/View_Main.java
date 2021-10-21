@@ -2,6 +2,7 @@ package com.bagaturchess.views;
 
 
 import android.content.Context;
+import android.graphics.RectF;
 import android.util.AttributeSet;
 
 import com.chessartforkids.main.views.BoardView;
@@ -17,7 +18,7 @@ public class View_Main extends MainView {
 	
 	
 	@Override
-	protected BoardView createBoardView() {
+	protected BoardView createBoardView(RectF rectf_board) {
 		return new View_Board(getContext(), this, rectf_board);
 	}
 }

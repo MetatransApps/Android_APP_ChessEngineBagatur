@@ -14,6 +14,7 @@ import com.bagaturchess.lib.R;
 import com.chessartforkids.GlobalConstants;
 import com.chessartforkids.logic.BoardConstants;
 import com.chessartforkids.menu.MenuActivity_Base;
+import com.chessartforkids.menu.MenuActivity_Difficulty;
 import com.chessartforkids.utils.CachesBitmap;
 
 import java.util.ArrayList;
@@ -25,32 +26,16 @@ import org.metatrans.commons.ui.list.RowItem_CIdTD;
 import org.metatrans.commons.ui.utils.BitmapUtils;
 
 
-public class Activity_MenuDifficulty_BagaturChess extends MenuActivity_Base implements GlobalConstants, BoardConstants {
+public class Activity_MenuDifficulty_BagaturChess extends MenuActivity_Difficulty implements GlobalConstants, BoardConstants {
 	
 	
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		
 		super.onCreate(savedInstanceState);
-		
-		int currOrderNumber = ConfigurationUtils_Difficulty.getInstance().getOrderNumber(getUserSettings().computerModeID);
-		
-		LayoutInflater inflater = LayoutInflater.from(this);
-		ViewGroup frame = ListViewFactory.create_CITD_ByXML(this, inflater, buildRows(currOrderNumber), currOrderNumber, getItemClickListener());
-		
-		setContentView(frame);
-		setFrame(frame);
-		
-		setBackgroundPoster(R.id.commons_listview_frame, 77);
 	}
-	
-	
-	@Override
-	protected int getBackgroundImageID() {
-		return R.drawable.ic_background_bagaturchess;
-	}
-	
-	
+
+
 	public List<RowItem_CIdTD> buildRows(int initialSelection) {
 		
 		List<RowItem_CIdTD> rowItems = new ArrayList<RowItem_CIdTD>();

@@ -46,7 +46,7 @@ public class Activity_EditBoard extends com.chessartforkids.edit.EditBoardActivi
 	
 	@Override
 	protected int button1ImageID() {
-		return R.drawable.ic_vote_thumb_up;
+		return R.drawable.ic_action_like_black;
 	}
 	
 	
