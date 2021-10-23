@@ -244,6 +244,8 @@ public class Activity_MenuMain_BagaturChess extends MenuActivity_Main {
 		from_chess_art_for_kids.remove(0);
 		from_chess_art_for_kids.remove(0);
 		from_chess_art_for_kids.remove(0);
+		from_chess_art_for_kids.remove(1); //Switch index to 1 in order to keep Automation mode menu
+		from_chess_art_for_kids.remove(1);
 
 
 		result.addAll(from_chess_art_for_kids);

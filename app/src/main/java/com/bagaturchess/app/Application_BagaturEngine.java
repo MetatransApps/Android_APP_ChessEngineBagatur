@@ -2,7 +2,6 @@ package com.bagaturchess.app;
 
 
 import org.metatrans.commons.engagement.ILeaderboardsProvider;
-import org.metatrans.commons.engagement.leaderboards.LeaderboardsProvider_Base_Scores;
 import org.metatrans.commons.model.GameData_Base;
 
 import com.bagaturchess.cfg.difficulty.ConfigurationUtils_Difficulty;
