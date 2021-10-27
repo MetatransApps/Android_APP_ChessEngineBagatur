@@ -1,3 +1,9 @@
+1.2.1 (25.10.2021) 
+Long awaited big investment in User Interface and User Experience. We hope you enjoy the new design!
+
+1.0.2 [PAID] (25.10.2021)
+Long awaited big investment in User Interface and User Experience. We hope you enjoy the new design!
+
 1.1.8 (21.08.2021)
 Technical debt: Migration of the development environment, from Eclipse to Android Studio
 
