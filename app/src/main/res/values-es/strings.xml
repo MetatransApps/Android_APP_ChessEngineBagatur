@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	
-    <string name="menu_about_bagatur">Acerca de Bagatur</string>
-    
+
+    <string name="menu_difficulty_1_desc">Mudanza movimiento aleatorio</string>
+    <string name="menu_difficulty_2_desc">Nivel 1 + capturar figuras no protegidos</string>
+    <string name="menu_difficulty_3_desc">Nivel 2 + manteniendo sus cifras</string>
+    <string name="menu_difficulty_4_desc">Nivel 3 + evaluación posicional</string>
+    <string name="menu_difficulty_5_desc">Bagatur Motor - profundidad 3 ply</string>
+    <string name="menu_difficulty_6_desc">Bagatur Motor - 1 segundos</string>
+    <string name="menu_difficulty_7_desc">Bagatur Motor - 3 segundos</string>
+    <string name="menu_difficulty_8_desc">Bagatur Motor - 7 segundos</string>
+    <string name="menu_difficulty_9_desc">Bagatur Motor - 15 segundos</string>
+    <string name="menu_difficulty_10_desc">Bagatur Motor - 30 segundos</string>
+    <string name="menu_difficulty_11_desc">Bagatur Motor - 1 minuto</string>
+    <string name="menu_difficulty_12_desc">Bagatur Motor - 2 minutos</string>
+    <string name="menu_difficulty_13_desc">Bagatur Motor - 4 minutos</string>
+    <string name="menu_difficulty_14_desc">Bagatur Motor - 10 minutos</string>
+    <string name="menu_difficulty_15_desc">Bagatur Motor - 30 minutos</string>
+    <string name="menu_difficulty_16_desc">Bagatur Motor - 1 hora</string>
+
 </resources>

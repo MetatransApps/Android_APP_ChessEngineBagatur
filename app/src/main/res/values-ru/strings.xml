@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	
-    <string name="menu_about_bagatur">Для Багатура</string>
-    
+
+    <string name="menu_difficulty_1_desc">Перемещение случайное движение</string>
+    <string name="menu_difficulty_2_desc">Ниво 1 + захватив незащищенные Шт</string>
+    <string name="menu_difficulty_3_desc">Ниво 2 + сохраняя свои Шт</string>
+    <string name="menu_difficulty_4_desc">ниво 3 + позиционная оценка</string>
+    <string name="menu_difficulty_5_desc">Багатур Двигатель - глубина 3 ход</string>
+    <string name="menu_difficulty_6_desc">Багатур Двигатель - 1 секунды</string>
+    <string name="menu_difficulty_7_desc">Багатур Двигатель - 3 секунды</string>
+    <string name="menu_difficulty_8_desc">Багатур Двигатель - 7 секунды</string>
+    <string name="menu_difficulty_9_desc">Багатур Двигатель - 15 секунды</string>
+    <string name="menu_difficulty_10_desc">Багатур Двигатель - 30 секунды</string>
+    <string name="menu_difficulty_11_desc">Багатур Двигатель - 1 минут</string>
+    <string name="menu_difficulty_12_desc">Багатур Двигатель - 2 минут</string>
+    <string name="menu_difficulty_13_desc">Багатур Двигатель - 4 минут</string>
+    <string name="menu_difficulty_14_desc">Багатур Двигатель - 10 минут</string>
+    <string name="menu_difficulty_15_desc">Багатур Двигатель - 30 минут</string>
+    <string name="menu_difficulty_16_desc">Багатур Двигатель - 1 час</string>
+
 </resources>

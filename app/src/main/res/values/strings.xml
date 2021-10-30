@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	
-    <string name="menu_about_bagatur">About Bagatur</string>
-    <string name="menu_edit_board">Edit Board</string>
+    
+    <string name="menu_difficulty_1_desc">Moving of random moves</string>
+    <string name="menu_difficulty_2_desc">Level 1 + capturing of undefended pieces</string>
+    <string name="menu_difficulty_3_desc">Level 2 + defending own pieces</string>
+    <string name="menu_difficulty_4_desc">Level 3 + positional evaluation</string>
+    <string name="menu_difficulty_5_desc">Bagatur Engine - depth 3 ply</string>
+    <string name="menu_difficulty_6_desc">Bagatur Engine - 1 seconds</string>
+    <string name="menu_difficulty_7_desc">Bagatur Engine - 3 seconds</string>
+    <string name="menu_difficulty_8_desc">Bagatur Engine - 7 seconds</string>
+    <string name="menu_difficulty_9_desc">Bagatur Engine - 15 seconds</string>
+    <string name="menu_difficulty_10_desc">Bagatur Engine - 30 seconds</string>
+    <string name="menu_difficulty_11_desc">Bagatur Engine - 1 minute</string>
+    <string name="menu_difficulty_12_desc">Bagatur Engine - 2 minutes</string>
+    <string name="menu_difficulty_13_desc">Bagatur Engine - 4 minutes</string>
+    <string name="menu_difficulty_14_desc">Bagatur Engine - 10 minutes</string>
+    <string name="menu_difficulty_15_desc">Bagatur Engine - 30 minutes</string>
+    <string name="menu_difficulty_16_desc">Bagatur Engine - 1 hour</string>
     
 </resources>

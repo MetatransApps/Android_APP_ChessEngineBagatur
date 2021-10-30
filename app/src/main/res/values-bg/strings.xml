@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	
-    <string name="menu_about_bagatur">За Багатур</string>
-    
+
+    <string name="menu_difficulty_1_desc">Местене на случаен ход</string>
+    <string name="menu_difficulty_2_desc">Ниво 1 + пленяване на незащитените фигури</string>
+    <string name="menu_difficulty_3_desc">Ниво 2 + пазене на собствените фигури</string>
+    <string name="menu_difficulty_4_desc">ниво 3 + позиционна оценка</string>
+    <string name="menu_difficulty_5_desc">Багатур Двигател - дълбочина 2 хода</string>
+    <string name="menu_difficulty_6_desc">Багатур Двигател - 1 секунди</string>
+    <string name="menu_difficulty_7_desc">Багатур Двигател - 3 секунди</string>
+    <string name="menu_difficulty_8_desc">Багатур Двигател - 7 секунди</string>
+    <string name="menu_difficulty_9_desc">Багатур Двигател - 15 секунди</string>
+    <string name="menu_difficulty_10_desc">Багатур Двигател - 30 секунди</string>
+    <string name="menu_difficulty_11_desc">Багатур Двигател - 1 минута</string>
+    <string name="menu_difficulty_12_desc">Багатур Двигател - 2 минути</string>
+    <string name="menu_difficulty_13_desc">Багатур Двигател - 4 минути</string>
+    <string name="menu_difficulty_14_desc">Багатур Двигател - 10 минути</string>
+    <string name="menu_difficulty_15_desc">Багатур Двигател - 30 минути</string>
+    <string name="menu_difficulty_16_desc">Багатур Двигател - 1 час</string>
+
 </resources>
