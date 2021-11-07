@@ -4,6 +4,8 @@ package org.metatrans.apps.bagatur.activities;
 import org.metatrans.apps.bagatur.views.View_Loading;
 import org.metatrans.commons.Activity_Base;
 import org.metatrans.commons.chess.loading.Activity_Loading;
+import org.metatrans.commons.chess.model.GameData;
+import org.metatrans.commons.chess.model.UserSettings;
 import org.metatrans.commons.chess.utils.StaticCache;
 import org.metatrans.commons.loading.View_Loading_Base;
 
@@ -16,7 +18,7 @@ public class Activity_Loading_BagaturChess extends Activity_Loading {
 
 		if (!loaded) {
 
-			StaticCache.initBoardManagersClasses_AllRulesOnly(gamedata, userSettings);
+			StaticCache.initBoardManagersClasses_AllRulesOnly();
 
 		} else {
 

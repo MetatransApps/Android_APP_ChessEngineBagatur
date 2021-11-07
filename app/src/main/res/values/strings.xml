@@ -5,7 +5,7 @@
     <string name="menu_difficulty_2_desc">Level 1 + capturing of undefended pieces</string>
     <string name="menu_difficulty_3_desc">Level 2 + defending own pieces</string>
     <string name="menu_difficulty_4_desc">Level 3 + positional evaluation</string>
-    <string name="menu_difficulty_5_desc">Bagatur Engine - depth 3 ply</string>
+    <string name="menu_difficulty_5_desc">Bagatur Engine - depth 3 half moves</string>
     <string name="menu_difficulty_6_desc">Bagatur Engine - 1 seconds</string>
     <string name="menu_difficulty_7_desc">Bagatur Engine - 3 seconds</string>
     <string name="menu_difficulty_8_desc">Bagatur Engine - 7 seconds</string>

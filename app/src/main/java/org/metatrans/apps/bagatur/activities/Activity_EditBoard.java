@@ -46,4 +46,10 @@ public class Activity_EditBoard extends org.metatrans.commons.chess.edit.EditBoa
 
 		startActivity(intent);
 	}
+
+
+	@Override
+	public void updateViewWithGameResult(int gameStatus) {
+		//Do nothing
+	}
 }

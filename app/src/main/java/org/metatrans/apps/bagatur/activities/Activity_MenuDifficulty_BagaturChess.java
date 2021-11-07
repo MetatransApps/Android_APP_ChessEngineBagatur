@@ -9,8 +9,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
 
-import com.chessartforkids.model.GameData;
-
 import java.util.ArrayList;
 import java.util.List;
 
@@ -24,6 +22,7 @@ import org.metatrans.commons.chess.GlobalConstants;
 import org.metatrans.commons.chess.R;
 import org.metatrans.commons.chess.logic.BoardConstants;
 import org.metatrans.commons.chess.menu.MenuActivity_Base;
+import org.metatrans.commons.chess.model.GameData;
 import org.metatrans.commons.chess.utils.CachesBitmap;
 import org.metatrans.commons.ui.list.ListViewFactory;
 import org.metatrans.commons.ui.list.RowItem_CIdTD;

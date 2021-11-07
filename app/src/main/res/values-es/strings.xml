@@ -5,7 +5,7 @@
     <string name="menu_difficulty_2_desc">Nivel 1 + capturar figuras no protegidos</string>
     <string name="menu_difficulty_3_desc">Nivel 2 + manteniendo sus cifras</string>
     <string name="menu_difficulty_4_desc">Nivel 3 + evaluación posicional</string>
-    <string name="menu_difficulty_5_desc">Bagatur Motor - profundidad 3 ply</string>
+    <string name="menu_difficulty_5_desc">Bagatur Motor - profundidad 3 plies</string>
     <string name="menu_difficulty_6_desc">Bagatur Motor - 1 segundos</string>
     <string name="menu_difficulty_7_desc">Bagatur Motor - 3 segundos</string>
     <string name="menu_difficulty_8_desc">Bagatur Motor - 7 segundos</string>

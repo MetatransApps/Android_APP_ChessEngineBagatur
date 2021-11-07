@@ -3,8 +3,6 @@ package org.metatrans.apps.bagatur.activities;
 
 import android.content.Intent;
 
-import com.chessartforkids.model.UserSettings;
-
 import java.util.ArrayList;
 import java.util.List;
 
@@ -14,6 +12,7 @@ import org.metatrans.commons.cfg.menu.Config_MenuMain_Base;
 import org.metatrans.commons.cfg.menu.IConfigurationMenu_Main;
 import org.metatrans.commons.chess.R;
 import org.metatrans.commons.chess.menu.Activity_MenuMain;
+import org.metatrans.commons.chess.model.UserSettings;
 
 
 public class Activity_MenuMain_BagaturChess extends Activity_MenuMain {

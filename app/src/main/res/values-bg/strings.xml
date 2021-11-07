@@ -5,7 +5,7 @@
     <string name="menu_difficulty_2_desc">Ниво 1 + пленяване на незащитените фигури</string>
     <string name="menu_difficulty_3_desc">Ниво 2 + пазене на собствените фигури</string>
     <string name="menu_difficulty_4_desc">ниво 3 + позиционна оценка</string>
-    <string name="menu_difficulty_5_desc">Багатур Двигател - дълбочина 2 хода</string>
+    <string name="menu_difficulty_5_desc">Багатур Двигател - дълбочина 3 хода</string>
     <string name="menu_difficulty_6_desc">Багатур Двигател - 1 секунди</string>
     <string name="menu_difficulty_7_desc">Багатур Двигател - 3 секунди</string>
     <string name="menu_difficulty_8_desc">Багатур Двигател - 7 секунди</string>
