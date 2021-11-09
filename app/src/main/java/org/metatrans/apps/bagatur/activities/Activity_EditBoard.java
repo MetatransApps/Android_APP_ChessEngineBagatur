@@ -1,6 +1,7 @@
 package org.metatrans.apps.bagatur.activities;
 
 
+import android.app.Activity;
 import android.content.Intent;
 
 import org.metatrans.commons.app.Application_Base;
@@ -26,7 +27,7 @@ public class Activity_EditBoard extends org.metatrans.commons.chess.edit.EditBoa
 
 	@Override
 	protected int button2ImageID() {
-		return R.drawable.ic_computer_moving;
+		return R.drawable.ic_computer_moving_bagatur;
 	}
 
 
@@ -51,5 +52,15 @@ public class Activity_EditBoard extends org.metatrans.commons.chess.edit.EditBoa
 	@Override
 	public void updateViewWithGameResult(int gameStatus) {
 		//Do nothing
+	}
+
+	@Override
+	public Class<? extends Activity> getMainMenuClass() {
+		return null;
+	}
+
+	@Override
+	public void createNewGame(String initialBoard) {
+		throw new IllegalStateException();
 	}
 }

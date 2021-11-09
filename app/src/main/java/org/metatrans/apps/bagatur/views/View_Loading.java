@@ -14,7 +14,7 @@ import org.metatrans.commons.chess.cfg.pieces.IConfigurationPieces;
 import org.metatrans.commons.chess.logic.BoardConstants;
 
 
-public class View_Loading extends org.metatrans.commons.chess.loading.View_Loading {
+public class View_Loading extends org.metatrans.commons.chess.views_and_controllers.View_Loading {
 	
 	
 	private Bitmap[] bitmap_commons;
@@ -30,7 +30,7 @@ public class View_Loading extends org.metatrans.commons.chess.loading.View_Loadi
 	public void initPiecesBitmaps() {
 		
 		bitmap_commons = new Bitmap[] {
-				getImageBitmap(R.drawable.ic_computer_moving),
+				getImageBitmap(R.drawable.ic_computer_moving_bagatur),
 				getImageBitmap(R.drawable.ic_logo_bagaturchess),
 		};
 

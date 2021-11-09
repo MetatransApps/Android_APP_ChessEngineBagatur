@@ -3,7 +3,7 @@ package org.metatrans.apps.bagatur.app;
 
 import org.metatrans.apps.bagatur.cfg.difficulty.ConfigurationUtils_Difficulty;
 import org.metatrans.commons.chess.cfg.rules.ConfigurationUtils_Bagatur_AllRules;
-import org.metatrans.commons.chess.logic.GameDataUtils;
+import org.metatrans.commons.chess.logic.game.GameDataUtils;
 import org.metatrans.commons.chess.model.UserSettings;
 import org.metatrans.commons.model.GameData_Base;
 

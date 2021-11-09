@@ -5,7 +5,7 @@ import android.content.Context;
 import android.graphics.RectF;
 import android.view.View;
 
-import org.metatrans.commons.chess.main.views.BoardView;
+import org.metatrans.commons.chess.views_and_controllers.BoardView;
 import org.metatrans.commons.engagement.leaderboards.View_Achievements_And_Leaderboards_Base;
 
 
