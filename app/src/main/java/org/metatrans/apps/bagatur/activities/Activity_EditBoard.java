@@ -21,7 +21,7 @@ public class Activity_EditBoard extends org.metatrans.commons.chess.edit.EditBoa
 
 	@Override
 	protected int button1ImageID() {
-		return R.drawable.ic_action_like_black;
+		return R.drawable.ic_action_like_white;
 	}
 
 
