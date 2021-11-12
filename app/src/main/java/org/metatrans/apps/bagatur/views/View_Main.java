@@ -13,7 +13,7 @@ public class View_Main extends MainView_WithMovesNavigation {
 	
 	
 	public View_Main(Context context, AttributeSet attrs) {
-		super(context, attrs, true);
+		super(context, attrs);
 	}
 	
 	
