@@ -3,11 +3,16 @@ package org.metatrans.apps.bagatur.activities;
 
 import android.app.Activity;
 import android.content.Intent;
+import android.os.Handler;
+import android.security.KeyChainException;
 
 import org.metatrans.commons.app.Application_Base;
 import org.metatrans.commons.chess.R;
 import org.metatrans.commons.chess.edit.EditBoardView;
+import org.metatrans.commons.chess.views_and_controllers.IBoardVisualization;
 import org.metatrans.commons.web.WebUtils;
+
+import java.util.concurrent.ExecutorService;
 
 
 public class Activity_EditBoard extends org.metatrans.commons.chess.edit.EditBoardActivity {
@@ -62,5 +67,33 @@ public class Activity_EditBoard extends org.metatrans.commons.chess.edit.EditBoa
 	@Override
 	public void createNewGame(String initialBoard) {
 		throw new IllegalStateException();
+	}
+
+
+	@Override
+	public Handler getUIHandler() {
+
+		throw new UnsupportedOperationException();
+	}
+
+
+	@Override
+	public void executeJob(Runnable runnable) {
+
+		throw new UnsupportedOperationException();
+	}
+
+
+	@Override
+	public IBoardVisualization getBoard() {
+
+		throw new UnsupportedOperationException();
+	}
+
+
+	@Override
+	public ExecutorService getExecutor() {
+
+		throw new UnsupportedOperationException();
 	}
 }
