@@ -1,3 +1,9 @@
+1.0.7 (13.06.2022)
+Adding Bagaturs V1 and V2 pieces sets
+
+1.2.6 (13.06.2022)
+Adding Bagaturs V1 and V2 pieces sets
+
 1.2.1 (25.10.2021) 
 Long awaited big investment in User Interface and User Experience. We hope you enjoy the new design!
 
