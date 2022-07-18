@@ -28,7 +28,13 @@ public class View_Loading extends org.metatrans.commons.chess.views_and_controll
 
 		invalidate();
 	}
-	
+
+
+	@Override
+	protected Bitmap[] getCommonBitmaps() {
+		return bitmap_commons;
+	}
+
 	
 	@Override
 	public void initPiecesBitmaps() {
@@ -76,17 +82,5 @@ public class View_Loading extends org.metatrans.commons.chess.views_and_controll
 			bitmap_others_arr.add(getPieceBitmap(piecesCfg, BoardConstants.ID_PIECE_B_PAWN));
 			createEntry(bitmap_others_arr.get(bitmap_others_arr.size() - 1));
 		}
-	}
-	
-	
-	@Override
-	protected Bitmap[] getCommonBitmaps() {
-		return bitmap_commons;
-	}
-	
-	
-	@Override
-	public RectF getRectangle_LeaderBoards() {
-		return null;
 	}
 }
