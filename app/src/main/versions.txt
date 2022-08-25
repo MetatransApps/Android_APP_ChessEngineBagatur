@@ -1,3 +1,9 @@
+1.0.9 [PAID] (25.08.2022)
+Bugfix for pawn promotions
+
+1.2.8 (25.08.2022)
+Bugfix for pawn promotions
+
 1.0.8 [PAID] (21.07.2022)
 Hotfix for pawn promotions
 
