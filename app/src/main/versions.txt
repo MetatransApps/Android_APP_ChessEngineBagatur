@@ -1,3 +1,11 @@
+1.1.0 [PAID] (02.10.2022)
+Make piece de-selection possible
+Add "Don't ask again" checkbox for move sequence override alert
+
+1.2.9 (02.10.2022)
+Make piece de-selection possible
+Add "Don't ask again" checkbox for move sequence override alert
+
 1.0.9 [PAID] (25.08.2022)
 Bugfix for pawn promotions
 
