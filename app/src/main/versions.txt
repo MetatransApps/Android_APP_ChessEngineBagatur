@@ -1,3 +1,9 @@
+1.1.1 [PAID] (18.12.2022)
+Service release - decreasing even more the app crash rate (bugfixing).
+
+1.3.2 (18.12.2022)
+Service release - decreasing even more the app crash rate (bugfixing).
+
 1.1.0 [PAID] (02.10.2022)
 Make piece de-selection possible
 Add "Don't ask again" checkbox for move sequence override alert
