@@ -1,3 +1,15 @@
+1.1.3 [PAID] (28.12.2022)
+Final compatibility hotfix for existing users - game model version increased and model re-creation re-enforced.
+
+1.3.4 (28.12.2022)
+Final compatibility hotfix for existing users - game model version increased and model re-creation re-enforced.
+
+1.1.2 [PAID] (24.12.2022)
+Compatibility hotfix for existing users – re-create and save new game data, because the save one is not compatible with the new model.
+
+1.3.3 (24.12.2022)
+Compatibility hotfix for existing users – re-create and save new game data, because the save one is not compatible with the new model.
+
 1.1.1 [PAID] (18.12.2022)
 Service release - decreasing even more the app crash rate (bugfixing).
 
