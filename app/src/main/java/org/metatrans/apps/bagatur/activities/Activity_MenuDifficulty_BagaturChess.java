@@ -91,7 +91,9 @@ public class Activity_MenuDifficulty_BagaturChess extends MenuActivity_Base impl
 		public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
 			
 			//System.out.println("MenuActivity_Difficulty: selection=" + position);
-			
+
+			Application_Base.getInstance().getSFXManager().playSound(org.metatrans.commons.R.raw.sfx_button_pressed_2);
+
 			int currOrderNumber = ConfigurationUtils_Difficulty.getInstance().getOrderNumber(getUserSettings().computerModeID);
 			if (position != currOrderNumber) {
 				int newCfgID = ConfigurationUtils_Difficulty.getInstance().getID(position);
