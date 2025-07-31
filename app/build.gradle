@@ -6,6 +6,8 @@ plugins {
 
 android {
 
+    namespace "org.metatrans.apps.bagatur"
+
     compileSdkVersion 30
     buildToolsVersion "30.0.3"
 
