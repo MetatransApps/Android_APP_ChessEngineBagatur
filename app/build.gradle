@@ -8,13 +8,13 @@ android {
 
     namespace "org.metatrans.apps.bagatur"
 
-    compileSdkVersion 31
+    compileSdkVersion 36
     buildToolsVersion "30.0.3"
 
     defaultConfig {
 
         minSdkVersion 23
-        targetSdkVersion 31
+        targetSdkVersion 36
 
         versionCode 103
         versionName "1.0.3"
